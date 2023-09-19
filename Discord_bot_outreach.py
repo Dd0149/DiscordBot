@@ -10,7 +10,7 @@ intents.guilds = True
 client = discord.Client(intents=intents)
 
 TOKEN = 'YOUR_TOKEN_HERE'
-FOLDER_PATH = '/media/jason/TrainingModels/discord_images/Month_1'
+FOLDER_PATH = 'PLACEFOLDER'
 TARGET_KEYWORDS = ['weta', 'unity', 'vfx', 'ai', 'ubuntu', 'software development', 'python']
 
 # Global variable to track image index
